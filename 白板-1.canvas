@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"f3b9fc4af34e703d","x":-197,"y":-224,"width":250,"height":60,"type":"text","text":"455"},
+		{"id":"2ad2ef549d1bdd0b","x":20,"y":-35,"width":400,"height":400,"type":"file","file":"笔记文件夹-Test/Note_1.md"},
+		{"id":"0b361776ad2f38bc","x":-322,"y":-60,"width":250,"height":50,"color":"3","type":"text","text":"版本"}
+	],
+	"edges":[]
+}
