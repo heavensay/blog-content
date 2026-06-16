@@ -1,6 +1,17 @@
 # This .gitignore is appropriate for repositories deployed to GitHub Pages and using
 # a Gemfile as specified at https://github.com/github/pages-gem#conventional
 
+# 忽略整个 Obsidian 配置目录（推荐用于个人独立配置）
+.obsidian/
+
+# 忽略 Obsidian 的回收站和缓存
+.trash/
+.obsidian-cache/
+
+# 忽略系统生成的临时文件
+.DS_Store
+Thumbs.db
+
 # Basic Jekyll gitignores (synchronize to Jekyll.gitignore)
 _site/
 .sass-cache/
