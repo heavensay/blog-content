@@ -1,3 +1,17 @@
+---
+title: temp-title
+date: <% tp.date.now("YYYY-MM-DD") %>
+lastmod: <% tp.date.now("YYYY-MM-DD") %>
+draft: false
+tags: []
+---
+
+
+## 标题：note1
+
+创建日期和时间：2026-06-16 19:36
+
+
 ### 你好
 
 ![](../attach-files/knowledge-test/note1/Pasted%20image%2020260616162524.png)
