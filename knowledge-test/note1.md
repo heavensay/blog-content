@@ -1,7 +1,6 @@
 ---
-title: temp-title
-date: <% tp.date.now("YYYY-MM-DD") %>
-lastmod: <% tp.date.now("YYYY-MM-DD") %>
+title: note1
+date: 2026-06-17T13:57:35+08:00
 draft: false
 tags: []
 ---
