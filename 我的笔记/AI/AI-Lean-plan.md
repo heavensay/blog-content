@@ -1,10 +1,11 @@
 ---
-title: hugo-template
+title: AI-Lean-plan
 date: 2026-06-25T18:11:54+08:00
 draft: false
 description: ""
 tags: []
 categories: []
+date modified: 2026-10-12T19:59:06+08:00
 ---
 
 AI微调，AI云平台试用(平台一般都有一个月试用期，建议专项开启试用)；

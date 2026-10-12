@@ -1,10 +1,11 @@
 ---
-title: hugo-template
+title: AI-Agent-Skills
 date: 2026-07-12T14:59:54+08:00
 draft: false
 description: ""
 tags: []
 categories: []
+date modified: 2026-10-12T19:56:37+08:00
 ---
 
 ## 介绍
