@@ -46,6 +46,3 @@ attach-files/**
 !attach-files/我的笔记/
 !attach-files/我的笔记/AI/
 !attach-files/我的笔记/AI/**
-
-
-### 只上传制定的blog内容 ###
