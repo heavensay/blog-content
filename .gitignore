@@ -3,6 +3,8 @@
 
 # 忽略整个 Obsidian 配置目录（推荐用于个人独立配置）
 .obsidian/
+copilot/
+template/
 
 # 忽略 Obsidian 的回收站和缓存
 .trash/
@@ -27,3 +29,16 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+
+# 只上传制定的blog内容
+# 1. 先放行父目录本身，否则 Git 不会进入 logs/
+!我的笔记/
+!attach-files/
+
+# 2. 忽略 logs 下的所有内容
+我的笔记/*
+attach-files/*
+
+# 3. 重新包含要保留的文件夹（注意父目录已放行，这里才生效）
+!我的笔记/AI/
+!attach-files/我的笔记/AI/
