@@ -40,7 +40,7 @@ Gemfile.lock
 attach-files/*
 
 # 3. 重新包含要保留的文件夹（注意父目录已放行，这里才生效）
-!我的笔记/AI
+#!我的笔记/AI
 !我的笔记/AI/**
-!attach-files/我的笔记/AI/
-!attach-files/我的笔记/AI/**
+#!attach-files/我的笔记/AI/
+#!attach-files/我的笔记/AI/**
